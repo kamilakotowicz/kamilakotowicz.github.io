@@ -1,6 +1,6 @@
 ---
 title: Projekt logo
-subtitle: Dla outdorowej marki odzieżowej.
+subtitle: Dla outdorowej marki odzieżowej
 layout: default
 modal-id: 2
 date: 2014-07-17
