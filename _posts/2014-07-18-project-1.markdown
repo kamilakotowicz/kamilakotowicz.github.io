@@ -1,6 +1,6 @@
 ---
-title: Materiały promocyjne Gojnik​
-subtitle: Roll up oraz plakaty A3, A4.
+title: Materiały promocyjne ​
+subtitle: Gojnik - na targi slow food
 layout: default
 modal-id: 1
 date: 2014-07-18
