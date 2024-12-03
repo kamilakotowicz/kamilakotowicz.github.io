@@ -1,10 +1,10 @@
 ---
-title: Marzenia
-subtitle: Website Design
+title: Materiały promocyjne Gojnik​
+subtitle: Materiały promocyjne dla firmy Gojnik przeznaczone na targi zdrowej żywności: Roll up oraz plakaty A3, A4. Projekt + przygotowanie plików do druku.
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
+img: Gojnik_Roll up.jpg
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: April 2014
