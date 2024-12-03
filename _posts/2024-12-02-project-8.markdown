@@ -1,0 +1,15 @@
+---
+title: New Title
+subtitle: New Subtitle
+layout: default
+modal-id: 7
+date: 2024-12-03
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Print
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---
