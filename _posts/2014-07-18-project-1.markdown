@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2014-07-18
 img: Gojnik-Roll-up.jpg
-thumbnail: dreams-thumbnail.png
+thumbnail: Gojnik-Roll-up.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
