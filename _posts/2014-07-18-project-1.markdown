@@ -1,6 +1,6 @@
 ---
 title: Materiały promocyjne Gojnik​
-subtitle: Roll up oraz plakaty A3, A4. Projekt + przygotowanie plików do druku.
+subtitle: Roll up oraz plakaty A3, A4. <br/>Projekt + przygotowanie plików do druku.
 layout: default
 modal-id: 1
 date: 2014-07-18
