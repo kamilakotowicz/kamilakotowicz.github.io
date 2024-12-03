@@ -4,7 +4,7 @@ subtitle: Roll up oraz plakaty A3, A4. Projekt + przygotowanie plików do druku.
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: Gojnik_Roll up.jpg
+img: Gojnik-Roll-up.jpg
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: April 2014
