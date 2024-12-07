@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Print
-description: Broszura reklamowa dla firmy Bataillard (projekt + przygotowanie do druku).  Broszura dwujęzyczna: angielsko-niemiecka.
+description: Broszura reklamowa dla firmy Bataillard (projekt + przygotowanie do druku). Broszura dwujęzyczna: angielsko-niemiecka.
 
 ---
