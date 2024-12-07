@@ -8,7 +8,7 @@ img: katalog_wina.jpg
 thumbnail: katalog_wina.jpg
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
+client: Bataillard
 category: Print
 description: 
 
