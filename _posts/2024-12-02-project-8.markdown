@@ -1,15 +1,15 @@
 ---
-title: New Title
-subtitle: New Subtitle
+title: Strona internetowa dla przedszkola
+subtitle: Projekt strony 
 layout: default
 modal-id: 8
 date: 2024-12-03
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: little-academy.jpg
+thumbnail: little-academy.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Print
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Projekt strony dla przedszkole dwujęzycznego Little Academy.
 
 ---
