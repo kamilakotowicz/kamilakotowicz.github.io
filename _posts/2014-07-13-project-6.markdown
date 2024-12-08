@@ -8,8 +8,8 @@ img: orbit_lp_vis.jpg
 thumbnail: orbit_lp_vis.jpg
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+client: Orbit
+category: Digital
 description: Projekt strony do zapisów na zajęcia podczas akcji specjalnej.
 
 ---
