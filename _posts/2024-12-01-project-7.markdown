@@ -8,8 +8,8 @@ img: wizytowka-partybooth.jpg
 thumbnail: wizytowka-partybooth.jpg
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Print
+client: Partybooth
+category: Projekty drukowane
 description: Projekt dwustronnej wizytówki dla firmy eventowej Partybooth.
 
 ---
