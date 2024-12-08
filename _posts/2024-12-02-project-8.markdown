@@ -8,8 +8,8 @@ img: little-academy.jpg
 thumbnail: little-academy.jpg
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Print
-description: Projekt strony dla przedszkole dwujęzycznego Little Academy.
+client: Little Academy
+category: Kreacje digitalowe
+description: Projekt strony dla przedszkola dwujęzycznego Little Academy.
 
 ---
