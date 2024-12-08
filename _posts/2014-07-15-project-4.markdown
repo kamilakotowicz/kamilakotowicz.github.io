@@ -1,5 +1,5 @@
 ---
-title: Voucher do myjni samochodowej
+title: Voucher do myjni 
 subtitle: Projekt + przygotowanie do druku
 layout: default
 modal-id: 4
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Projekt vouchera na mycie autoa w myjni Pure Auto + przygotowanei do druku.
+description: Projekt vouchera na mycie auta w myjni Pure Auto + przygotowanei do druku.
 
 ---
