@@ -8,8 +8,9 @@ img: partybooth-app.jpg
 thumbnail: partybooth-app.jpg
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+client: Partybooth
+category: Kreacje digitalowe
+
 description: Projekt aplikacji do obsługi gifbudki składający się z 3 ekranów.
 
 ---
