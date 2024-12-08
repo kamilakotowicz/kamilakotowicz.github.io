@@ -1,15 +1,15 @@
 ---
-title: Newsletter dla firmy eventowej Partybooth
-subtitle: Projekt newslettera
+title: Wizytówki dla firmy eventowej Partybooth
+subtitle: Projekt + przygotowanie do druku
 layout: default
 modal-id: 7
 date: 2024-12-03
-img: Newsletter_Partybooth.jpg
-thumbnail: Newsletter_Partybooth.jpg
+img: wizytowka-partybooth.jpg
+thumbnail: wizytowka-partybooth.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Print
-description: Projekt newslettera dla firmy eventowej Partybooth.
+description: Projekt dwustronnej wizytówki dla firmy eventowej Partybooth.
 
 ---
