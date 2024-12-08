@@ -1,6 +1,6 @@
 ---
-title: Strona internetowa dla przedszkola
-subtitle: Projekt strony 
+title: Strona internetowa dla przedszkola LIttle Academy
+subtitle: Projekt strony www
 layout: default
 modal-id: 8
 date: 2024-12-03
