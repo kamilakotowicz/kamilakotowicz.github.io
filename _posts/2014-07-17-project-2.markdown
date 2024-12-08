@@ -8,8 +8,8 @@ img: Logo-Para kopia.jpg
 thumbnail: Logo-Para kopia.jpg
 alt: image-alt
 project-date: April 2014
-client: -
-category: Projekty drukowane
+client: 00
+category: Projekty drukowane, Kreacje digitalowe
 description: Projekt logo dla marki odzieżowej (outdoor).
 
 ---
