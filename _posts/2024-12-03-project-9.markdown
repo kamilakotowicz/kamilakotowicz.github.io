@@ -9,7 +9,7 @@ thumbnail: katalog_wina.jpg
 alt: image-alt
 project-date: April 2014
 client: Bataillard
-category: Print
+category: Projekty drukowane
 description: "Broszura reklamowa dla firmy Bataillard (projekt + przygotowanie do druku). Broszura dwujęzyczna: angielsko-niemiecka."
 
 ---
