@@ -8,8 +8,8 @@ img: Gojnik-Roll-up.jpg
 thumbnail: Gojnik-Roll-up.jpg
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+client: Gojnik
+category: Projekty drukowane
 description: Materiały promocyjne dla firmy Gojnik przeznaczone na targi zdrowej żywności. <BR> Roll up oraz plakaty A3, A4. Projekt + przygotowanie plików do druku.
 
 ---
