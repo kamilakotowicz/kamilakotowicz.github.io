@@ -9,7 +9,7 @@ thumbnail: orbit_lp_vis.jpg
 alt: image-alt
 project-date: April 2014
 client: Orbit
-category: Digital
+category: Kreacje digitalowe
 description: Projekt strony do zapisów na zajęcia podczas akcji specjalnej.
 
 ---
