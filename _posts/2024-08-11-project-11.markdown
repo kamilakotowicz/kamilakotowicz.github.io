@@ -8,7 +8,7 @@ img: xiaomi-naklejki.jpg
 thumbnail: xiaomi-naklejki.jpg
 alt: image-alt
 project-date: April 2014
-client: Partybooth
+client: Xiaomi
 category: Projekty drukowane
 description:  Projekt naklejek z okazji Maratonu Warszawskiego, do rozdawania w strefie Xiaomi podczas zawodów.
 
