@@ -8,7 +8,7 @@ img: drewniane-wizytowka-2.jpg
 thumbnail: drewniane-wizytowka-2.jpg
 alt: image-alt
 project-date: April 2014
-client: Partybooth
+client: Drewniane.tech
 category: Projekty drukowane
 description: Projekt wizytówek dla całego zespołu Drewniane.tech x LOFT IT. Przygotowanie projektu oraz pliku do druku.
 
