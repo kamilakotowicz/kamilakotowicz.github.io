@@ -1,5 +1,5 @@
 ---
-title: Wizytówka dla Drewniane.tech
+title: Wizytówka Drewniane.tech
 subtitle: Projekt + przygotowanie do druku
 layout: default
 modal-id: 7
