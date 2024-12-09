@@ -1,1 +1,15 @@
+---
+title: Wizytówki dla firmy eventowej Partybooth
+subtitle: Projekt + przygotowanie do druku
+layout: default
+modal-id: 7
+date: 2024-12-03
+img: wizytowka-partybooth.jpg
+thumbnail: wizytowka-partybooth.jpg
+alt: image-alt
+project-date: April 2014
+client: Partybooth
+category: Projekty drukowane
+description: Projekt dwustronnej wizytówki dla firmy eventowej Partybooth.
 
+---
