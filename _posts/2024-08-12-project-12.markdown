@@ -1,15 +1,15 @@
 ---
-title: Wizytówki dla firmy eventowej Partybooth
+title: Książka ze scenariuszami lekcji
 subtitle: Projekt + przygotowanie do druku
 layout: default
 modal-id: 7
 date: 2024-12-03
-img: wizytowka-partybooth.jpg
-thumbnail: wizytowka-partybooth.jpg
+img: korbo-robot-vis.jpg
+thumbnail: korbo-robot-vis.jpg
 alt: image-alt
 project-date: April 2014
-client: Partybooth
+client: Remi
 category: Projekty drukowane
-description: Projekt dwustronnej wizytówki dla firmy eventowej Partybooth.
+description: Projekt książki ze scenariuszami zajęć do robota edukacyjnego. Przygotowanie projektu oraz pliku do druku.
 
 ---
