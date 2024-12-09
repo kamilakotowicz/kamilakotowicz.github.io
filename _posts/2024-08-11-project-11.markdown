@@ -1,15 +1,15 @@
 ---
-title: Wizytówki dla firmy eventowej Partybooth
+title: Naklejki dla Xiaomi
 subtitle: Projekt + przygotowanie do druku
 layout: default
 modal-id: 7
 date: 2024-12-03
-img: wizytowka-partybooth.jpg
-thumbnail: wizytowka-partybooth.jpg
+img: xiaomi-naklejki.jpg
+thumbnail: xiaomi-naklejki.jpg
 alt: image-alt
 project-date: April 2014
 client: Partybooth
 category: Projekty drukowane
-description: Projekt dwustronnej wizytówki dla firmy eventowej Partybooth.
+description:  Projekt naklejek z okazji Maratonu Warszawskiego, do rozdawania w strefie Xiaomi podczas zawodów.
 
 ---
