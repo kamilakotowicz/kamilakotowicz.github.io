@@ -2,7 +2,7 @@
 title: Voucher do myjni 
 subtitle: Projekt + przygotowanie do druku
 layout: default
-modal-id: 4
+modal-id: 3
 date: 2014-07-15
 img: voucher-pure-auto.jpg
 thumbnail: voucher-pure-auto.jpg
