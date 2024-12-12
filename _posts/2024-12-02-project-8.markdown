@@ -2,7 +2,7 @@
 title: Banery Max Factor
 subtitle: Projekty z róznych kampanii
 layout: default
-modal-id: 13
+modal-id: 8
 date: 2024-12-02
 img: max-factor-banery.jpg
 thumbnail: max-factor-banery.jpg
