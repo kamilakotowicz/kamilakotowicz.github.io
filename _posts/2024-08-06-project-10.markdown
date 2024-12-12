@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Partybooth
 category: Projekty drukowane
-description: Projekt dwustronnej wizytówki dla firmy eventowej Partybooth.
+description: Projekt dwustronnej wizytówki dla firmy eventowej Partybooth. Przygotowanie pliku do druku.
 
 ---
