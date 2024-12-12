@@ -1,15 +1,15 @@
 ---
-title: Grafika na potykacz Coke Studio dla Coca-Cola
-subtitle: Projekt + przygotowanie do druku
+title: Banery internetowe Max Factor
+subtitle: Projekty z róznych kampanii
 layout: default
 modal-id: 13
 date: 2024-12-03
-img: potykacz_CC.jpg
-thumbnail: potykacz_CC.jpg
+img: max-factor-banery.jpg
+thumbnail: max-factor-banery.jpg
 alt: image-alt
 project-date: April 2014
-client: Coca-cola
-category: Projekty drukowane
-description: Podczas eventu można było również nakleić na t-shirt lub torbę naprasowanki mojego projektu, a na skrzyniach z ładowarkami zobaczyć moje naklejki zaprojektowane specjalnie na te eventy.
+client: Max Factor
+category: Kreacje digitalowe
+description: Projekt banerów internetowych dla Max Factor. Projekty z różnymi produktami, na różne rynku. Na zdjęciu znajdują się tylko przykładowe banery. projektowałam również dla innych mare, m.in.: Bourjois, Lancaster, Wella czy Rimmel
 
 ---
