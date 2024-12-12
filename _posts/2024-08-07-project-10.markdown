@@ -3,7 +3,7 @@ title: Owijki świąteczne do perfum
 subtitle: Projekt + przygotowanie do druku
 layout: default
 modal-id: 14
-date: 2024-12-03
+date: 2024-08-07
 img: owijki_perfumy.jpg
 thumbnail: owijki_perfumy.jpg
 alt: image-alt
