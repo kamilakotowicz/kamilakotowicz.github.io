@@ -1,6 +1,6 @@
 ---
 title: Banery Max Factor
-subtitle: Projekty z róznych kampanii
+subtitle: Projekty z różnych kampanii
 layout: default
 modal-id: 13
 date: 2024-11-21
