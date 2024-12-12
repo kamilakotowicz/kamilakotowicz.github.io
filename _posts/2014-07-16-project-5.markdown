@@ -2,7 +2,7 @@
 title: Ulotki Wella - Koleston
 subtitle: Projekt + przygotowanie do druku
 layout: default
-modal-id: 4
+modal-id: 5
 date: 2014-07-16
 img: Ulotka-Koleston.jpg
 thumbnail: Ulotka-Koleston.jpg
