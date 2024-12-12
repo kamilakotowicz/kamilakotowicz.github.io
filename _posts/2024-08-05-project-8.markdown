@@ -1,5 +1,5 @@
 ---
-title: Strona internetowa dla przedszkola LIttle Academy
+title: Strona LIttle Academy
 subtitle: Projekt strony www
 layout: default
 modal-id: 8
