@@ -1,5 +1,5 @@
 ---
-title: Grafika na potykacz Coke Studio dla Coca-Cola
+title: Grafika na potykacz dla Coca-Cola
 subtitle: Projekt + przygotowanie do druku
 layout: default
 modal-id: 13
