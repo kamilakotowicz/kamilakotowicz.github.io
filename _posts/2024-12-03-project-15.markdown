@@ -1,6 +1,6 @@
 ---
 title: Broszura dla Bataillard
-subtitle: Projekt + przygotowianie do druku
+subtitle: Projekt + przygotowanie do druku
 layout: default
 modal-id: 15
 date: 2024-12-03
