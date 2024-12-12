@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Pure Auto
 category: Projekty drukowane
-description: Projekt vouchera na mycie auta w myjni Pure Auto + przygotowanie do druku.
+description: Projekt vouchera na mycie auta w myjni Pure Auto + przygotowanie pliku do druku.
 
 ---
