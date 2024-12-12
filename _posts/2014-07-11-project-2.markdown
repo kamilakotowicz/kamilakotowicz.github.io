@@ -2,8 +2,8 @@
 title: Landing Page dla Orbit
 subtitle: Projekt strony do zapisów
 layout: default
-modal-id: 1
-date: 2014-07-15
+modal-id: 2
+date: 2014-07-11
 img: orbit_lp_vis.jpg
 thumbnail: orbit_lp_vis.jpg
 alt: image-alt
