@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Coca-cola
 category: Projekty drukowane
-description: Podczas eventu można było również nakleić na t-shirt lub torbę naprasowanki mojego projektu, a na skrzyniach z ładowarkami zobaczyć moje naklejki zaprojektowane specjalnie na te eventy.
+description: "Projekt grafiki na potykacz do strefy Coca-Coli zaprojektowany specjalnie na 3 festiwale muzyczne: Cloud, Sun i Sunrise. Podczas eventu można było również nakleić na t-shirt lub torbę naprasowanki mojego projektu, a na skrzyniach z ładowarkami zobaczyć moje naklejki zaprojektowane specjalnie na te eventy."
 
 ---
