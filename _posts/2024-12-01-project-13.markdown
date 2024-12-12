@@ -2,8 +2,8 @@
 title: Wizytówki dla Partybooth
 subtitle: Projekt + przygotowanie do druku
 layout: default
-modal-id: 7
-date: 2024-12-03
+modal-id: 13
+date: 2024-12-01
 img: wizytowka-partybooth.jpg
 thumbnail: wizytowka-partybooth.jpg
 alt: image-alt
