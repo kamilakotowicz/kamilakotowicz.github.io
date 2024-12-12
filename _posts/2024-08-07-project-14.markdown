@@ -1,1 +1,15 @@
+---
+title: Grafika na potykacz Coke Studio dla Coca-Cola
+subtitle: Projekt + przygotowanie do druku
+layout: default
+modal-id: 13
+date: 2024-12-03
+img: potykacz_CC.jpg
+thumbnail: potykacz_CC.jpg
+alt: image-alt
+project-date: April 2014
+client: Coca-cola
+category: Projekty drukowane
+description: Podczas eventu można było również nakleić na t-shirt lub torbę naprasowanki mojego projektu, a na skrzyniach z ładowarkami zobaczyć moje naklejki zaprojektowane specjalnie na te eventy.
 
+---
