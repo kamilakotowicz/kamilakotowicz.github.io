@@ -3,7 +3,7 @@ title: Naklejki dla Xiaomi
 subtitle: Projekt + przygotowanie do druku
 layout: default
 modal-id: 11
-date: 2024-12-03
+date: 2024-08-11
 img: xiaomi-naklejki.jpg
 thumbnail: xiaomi-naklejki.jpg
 alt: image-alt
