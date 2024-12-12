@@ -2,7 +2,7 @@
 title: Projekt aplikacji do gifbudki
 subtitle: Projekt 3 ekranów do obsługi gifbudki
 layout: default
-modal-id: 5
+modal-id: 2
 date: 2014-07-14
 img: partybooth-app.jpg
 thumbnail: partybooth-app.jpg
