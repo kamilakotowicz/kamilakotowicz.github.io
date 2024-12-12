@@ -2,7 +2,7 @@
 title: Projekt logo
 subtitle: Dla outdorowej marki odzieżowej
 layout: default
-modal-id: 2
+modal-id: 5
 date: 2014-07-17
 img: Logo-Para kopia.jpg
 thumbnail: Logo-Para kopia.jpg
