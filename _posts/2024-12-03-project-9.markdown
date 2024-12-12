@@ -1,5 +1,5 @@
 ---
-title: Broszura reklamowa z winami dla Bataillard
+title: Broszura dla Bataillard
 subtitle: Projekt + przygotowianie do druku
 layout: default
 modal-id: 9
