@@ -1,5 +1,5 @@
 ---
-title: Banery internetowe Max Factor
+title: Banery Max Factor
 subtitle: Projekty z róznych kampanii
 layout: default
 modal-id: 13
