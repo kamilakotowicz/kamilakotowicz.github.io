@@ -2,7 +2,7 @@
 title: Potykacz dla Coca-Cola
 subtitle: Projekt + przygotowanie do druku
 layout: default
-modal-id: 9
+modal-id: 8
 date: 2024-08-04
 img: potykacz_CC.jpg
 thumbnail: potykacz_CC.jpg
