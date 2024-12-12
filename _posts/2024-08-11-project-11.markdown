@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Xiaomi
 category: Projekty drukowane
-description:  Projekt naklejek z okazji Maratonu Warszawskiego, do rozdawania w strefie Xiaomi podczas zawodów.
+description: Projekt naklejek z okazji Maratonu Warszawskiego, do rozdawania w strefie Xiaomi podczas zawodów.
 
 ---
