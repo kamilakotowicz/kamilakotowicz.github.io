@@ -3,7 +3,7 @@ title: Książka ze scenariuszami lekcji
 subtitle: Projekt + przygotowanie do druku
 layout: default
 modal-id: 12
-date: 2024-12-03
+date: 2024-08-04
 img: korbo-robot-vis.jpg
 thumbnail: korbo-robot-vis.jpg
 alt: image-alt
