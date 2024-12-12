@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Coty
 category: Projekty drukowane
-description: Projekt owijek świątecznych do perfum dla marek: James bond, David Beckham, Beyonce. Przygotowanie pliku do druku.
+description: "Projekt owijek świątecznych do perfum dla marek: James bond, David Beckham, Beyonce. Przygotowanie pliku do druku."
 
 ---

@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Max Factor
 category: Kreacje digitalowe
-description: Projekt banerów internetowych dla Max Factor. Różne kampanie, na różne rynku. Na zdjęciu znajdują się tylko przykładowe banery. Projektowałam również dla innych marek, m.in.: Bourjois, Lancaster, Wella czy Rimmel.
+description: "Projekt banerów internetowych dla Max Factor. Różne kampanie, na różne rynku. Na zdjęciu znajdują się tylko przykładowe banery. Projektowałam również dla innych marek, m.in.: Bourjois, Lancaster, Wella czy Rimmel."
 
 ---
