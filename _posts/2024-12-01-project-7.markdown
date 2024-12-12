@@ -1,5 +1,5 @@
 ---
-title: Wizytówki dla firmy eventowej Partybooth
+title: Wizytówki dla Partybooth
 subtitle: Projekt + przygotowanie do druku
 layout: default
 modal-id: 7
