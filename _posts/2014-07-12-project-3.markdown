@@ -3,7 +3,7 @@ title: Materiały promocyjne ​Gojnik
 subtitle: Projekt + przygotowanie do druku
 layout: default
 modal-id: 3
-date: 2014-07-18
+date: 2014-07-12
 img: Gojnik-Roll-up.jpg
 thumbnail: Gojnik-Roll-up.jpg
 alt: image-alt
