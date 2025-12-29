@@ -11,6 +11,6 @@ project-date: April 2014
 client: The Sign
 category: Kreacje digitalowe
 
-description: Projekt pudeła upominkowego dla marki Cappy
+description: Projekt grafik produktowych. Zwierzaki zostały wygenerowane prze AI.
 
 ---
