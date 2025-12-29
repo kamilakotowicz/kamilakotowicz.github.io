@@ -1,15 +1,15 @@
 ---
-title: Projekt pudełka upominkowego Cappy
-subtitle: Projekt i wizualizacja
+title: Grafiki do postów z wykorzystaniem AI
+subtitle: Grafika + hasła 
 layout: default
 modal-id: 1
 date: 2014-07-10
-img: cappy.jpg
-thumbnail: cappy.jpg
+img: posty.jpg
+thumbnail: posty.jpg
 alt: image-alt
 project-date: April 2014
-client: Cappy
-category: Kreacje drukowane
+client: The Sign
+category: Kreacje digitalowe
 
 description: Projekt pudeła upominkowego dla marki Cappy
 
