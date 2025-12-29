@@ -1,15 +1,15 @@
 ---
-title: Wizytówki dla Partybooth
+title: Książeczka z przepisami 
 subtitle: Projekt + przygotowanie do druku
 layout: default
 modal-id: 10
 date: 2024-08-06
-img: wizytowka-partybooth.jpg
-thumbnail: wizytowka-partybooth.jpg
+img: basia-przepisy.jpg
+thumbnail: basia-przepisy.jpg
 alt: image-alt
 project-date: April 2014
-client: Partybooth
+client: GoodMills 
 category: Projekty drukowane
-description: Projekt dwustronnej wizytówki dla firmy eventowej Partybooth. Przygotowanie pliku do druku.
+description: Projekt książeczki z przepisami
 
 ---
