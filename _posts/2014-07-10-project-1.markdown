@@ -1,16 +1,16 @@
 ---
-title: Projekt aplikacji do gifbudki
-subtitle: Projekt 3 ekranów do obsługi gifbudki
+title: Projekt pudełka upominkowego Cappy
+subtitle: Projekt i wizualizacja
 layout: default
 modal-id: 1
 date: 2014-07-10
-img: partybooth-app.jpg
-thumbnail: partybooth-app.jpg
+img: cappy.jpg
+thumbnail: cappy.jpg
 alt: image-alt
 project-date: April 2014
-client: Partybooth
-category: Kreacje digitalowe
+client: Cappy
+category: Kreacje drukowane
 
-description: Projekt aplikacji do obsługi gifbudki składający się z 3 ekranów.
+description: Projekt pudeła upominkowego dla marki Cappy
 
 ---
