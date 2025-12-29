@@ -1,15 +1,15 @@
 ---
-title: Książka ze scenariuszami lekcji
+title: Naklejki dla MAM TALENT
 subtitle: Projekt + przygotowanie do druku
 layout: default
 modal-id: 7
 date: 2024-08-03
-img: korbo-robot-vis.jpg
-thumbnail: korbo-robot-vis.jpg
+img: mam-talent.jpg
+thumbnail: mam-talent.jpg
 alt: image-alt
 project-date: April 2014
-client: Remi
+client: TVN
 category: Projekty drukowane
-description: Projekt książki ze scenariuszami zajęć do robota edukacyjnego. Przygotowanie projektu oraz pliku do druku.
+description: Projekt naklejek rozdawanych na evencie promującym nowy sezon programu w centrum handlowym
 
 ---
