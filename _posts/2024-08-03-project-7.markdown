@@ -4,8 +4,8 @@ subtitle: Projekt + przygotowanie do druku
 layout: default
 modal-id: 7
 date: 2024-08-03
-img: mam-talent-2.jpg
-thumbnail: mam-talent-2.jpg
+img: mam-talent-3.jpg
+thumbnail: mam-talent-3.jpg
 alt: image-alt
 project-date: April 2014
 client: TVN
