@@ -10,6 +10,5 @@ alt: image-alt
 project-date: April 2014
 client: TVN
 category: Projekty drukowane
-description: Projekt naklejek rozdawanych na evencie promującym nowy sezon programu w centrum handlowym
-
+description: Naklejki przygotowane na event promujący nowy sezon programu.
 ---
