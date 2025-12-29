@@ -1,6 +1,6 @@
 ---
-title: Grafiki do postów z wykorzystaniem AI
-subtitle: Grafika + hasła 
+title: Grafiki facebook
+subtitle:  Grafiki do postów z wykorzystaniem AI
 layout: default
 modal-id: 1
 date: 2014-07-10
