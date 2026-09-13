@@ -1,6 +1,6 @@
 ---
-title: Banery Max Factor
-subtitle: Projekty z różnych kampanii
+title: Voucher festiwalowy dla Coca-cola
+subtitle: Projekt + przygotowanie do druku
 layout: default
 modal-id: 13
 date: 2024-11-21
