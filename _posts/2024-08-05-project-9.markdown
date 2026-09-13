@@ -1,6 +1,6 @@
 ---
 title: Voucher promocyjny
-subtitle: 
+subtitle: Projekt + przygotowanie do dreuku
 layout: default
 modal-id: 9
 date: 2024-08-05
