@@ -1,15 +1,15 @@
 ---
-title: Strona Little Academy
-subtitle: Projekt strony www
+title: Voucher promocyjny
+subtitle: 
 layout: default
 modal-id: 9
 date: 2024-08-05
-img: little-academy.jpg
-thumbnail: little-academy.jpg
+img: xioami_voucher_2.jpg
+thumbnail: xioami_voucher_2.jpg
 alt: image-alt
-project-date: April 2014
-client: Little Academy
-category: Kreacje digitalowe
-description: Projekt strony dla przedszkola dwujęzycznego Little Academy.
+project-date: April 2025
+client: Xioami
+category: Projekty drukowane
+description: Autorski koncept vouchera promocyjnego stworzony z myślą o plenerowej akcji kina letniego marki Xiaomi. Projekt nawiązuje do klasycznych biletów kinowych poprzez unikalny kształt z precyzyjnymi liniami cięcia, motyw gwiazdek oraz świetlną typografię retro. Całość łączy czarną elegancję z energetycznym pomarańczem Xiaomi, stanowiąc w pełni przygotowany do druku projekt łączący oryginalny design z klimatem letnich seansów.
 
 ---
