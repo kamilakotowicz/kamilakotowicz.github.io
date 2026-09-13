@@ -1,5 +1,5 @@
 ---
-title: Voucher festiwalowy dla marki Coca-Cola
+title: Voucher festiwalowy 
 subtitle: Projekt + przygotowanie do druku
 layout: default
 modal-id: 13
