@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: The Coca-Cola Company
 category: Projekty drukowane
-description: "Projekt vouchera promocyjnego przygotowanego dla marki Coca-Cola w ramach letnich aktywacji festiwalowych. Całość – łącznie z wymyślonymi przeze mnie hasłami – to w pełni  koncepcja własna. Na froncie wykorzystałam dostarczone przez klienta postacie, układając je w unikalną, dynamiczną kompozycję. Tył to z kolei całkowicie mój autorski projekt graficzny, który łączy się z czytelną informacją o wartości 50 zł do realizacji w sieci sklepów Żabka"
+description: "Projekt vouchera promocyjnego przygotowanego dla marki Coca-Cola w ramach letnich aktywacji festiwalowych. Całość – łącznie z wymyślonym przeze mnie hasłem – to w pełni  koncepcja własna. Na froncie wykorzystałam dostarczone przez klienta postacie, układając je w unikalną, dynamiczną kompozycję. Tył to z kolei całkowicie mój autorski projekt graficzny, który łączy się z czytelną informacją o wartości 50 zł do realizacji w sieci sklepów Żabka"
 
 ---
