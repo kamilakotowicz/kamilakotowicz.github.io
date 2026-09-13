@@ -4,8 +4,8 @@ subtitle: Projekt + przygotowanie do druku
 layout: default
 modal-id: 13
 date: 2024-11-21
-img: VOUCHER_CC_ZABKA.jpeg
-thumbnail: VOUCHER_CC_ZABKA.jpeg
+img: VOUCHER_CC_ZABKA-v2.jpeg
+thumbnail: VOUCHER_CC_ZABKA-v2.jpeg
 alt: image-alt
 project-date: April 2014
 client: The Coca-Cola Company
