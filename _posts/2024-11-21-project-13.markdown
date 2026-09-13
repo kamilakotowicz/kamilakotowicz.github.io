@@ -4,7 +4,7 @@ subtitle: Projekty z różnych kampanii
 layout: default
 modal-id: 13
 date: 2024-11-21
-img: max-factor-banery.jpg
+img: VOUCHER_CC_ZABKA.jpg
 thumbnail: VOUCHER_CC_ZABKA.jpg
 alt: image-alt
 project-date: April 2014
