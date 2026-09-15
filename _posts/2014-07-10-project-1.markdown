@@ -2,7 +2,7 @@
 title: Kolekcja naszywek
 subtitle:  Projekt + przygotowanie do druku
 layout: default
-modal-id: 1
+modal-id: 6
 date: 2026-07-01
 img: naszywki.jpg
 thumbnail: naszywki.jpg
