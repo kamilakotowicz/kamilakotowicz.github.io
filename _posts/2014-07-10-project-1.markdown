@@ -1,16 +1,16 @@
 ---
-title: Grafiki facebook
-subtitle:  Grafiki do postów z wykorzystaniem AI
+title: Kolekcja festiwalowych naszywek
+subtitle:  Projekt + przygotowanie do druku
 layout: default
 modal-id: 1
-date: 2014-07-10
-img: posty.jpg
-thumbnail: posty.jpg
+date: 2026-07-01
+img: naszywki.jpg
+thumbnail: naszywki.jpg
 alt: image-alt
-project-date: April 2014
-client: The Sign
-category: Kreacje digitalowe
+project-date: July 2026
+client: The Coca-Cola company
+category: Projekty drukowane
 
-description: Projekt grafik produktowych. Zwierzaki zostały wygenerowane prze AI.
+description: Kolekcja 19 unikalnych wzorów naszywek stworzonych z myślą o festiwalowej atmosferze. Każdy wzór został zaprojektowany z dbałością o skalowalność – tak, aby grafiki zachowywały czytelność i ostrość na hafcie.
 
 ---
