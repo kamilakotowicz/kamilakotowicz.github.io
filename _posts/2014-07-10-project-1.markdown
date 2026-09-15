@@ -1,5 +1,5 @@
 ---
-title: Kolekcja festiwalowych naszywek
+title: Kolekcja naszywek
 subtitle:  Projekt + przygotowanie do druku
 layout: default
 modal-id: 1
