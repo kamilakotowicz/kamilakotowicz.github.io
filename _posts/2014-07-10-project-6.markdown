@@ -11,6 +11,6 @@ project-date: July 2026
 client: The Coca-Cola company
 category: Projekty drukowane
 
-description: Kolekcja 19 unikalnych wzorów naszywek stworzonych z myślą o festiwalowej atmosferze. Każdy wzór został zaprojektowany z dbałością o skalowalność – tak, aby grafiki zachowywały czytelność i ostrość na hafcie.
+description: Kolekcja 19 unikalnych wzorów naszywek stworzonych z myślą o festiwalowej atmosferze. Każdy wzór został zaprojektowany z dbałością o skalowalność – tak, aby grafiki zachowywały czytelność i ostrość na hafcie. Wizualizacja projektu została wygenerowana za pomocą AI jako nowoczesny mockup prezentujący finalny pomysł w kontekście użycia.
 
 ---
