@@ -1,5 +1,5 @@
 ---
-title: Strefa fesliwalowa dla Coca-Cola
+title: Strefa dla Coca-Cola
 subtitle: Projekt + przygotowanie do druku
 layout: default
 modal-id: 8
