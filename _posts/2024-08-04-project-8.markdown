@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Coca-cola
 category: Projekty drukowane
-description: "Branding do dedykowanych stref Coca-Cola na festiwalach (m.in. Sunrise i Bittersweet). Projekt obejmował szeroki wachlarz kreacji – od prezentowanych potykaczy, przez banery, roll-upy, plakaty, naklejki i grafikę na trybuny, aż po gadżety (naszywki i tatuaże). Wszystkie pliki zostały w pełni przygotowane do druku, łącząc autorskie układy graficzne z wytycznymi i materiałami brandu klienta."
+description: "Branding do dedykowanych stref Coca-Cola na festiwalach (m.in. Sunrise i Bittersweet). Projekt obejmował szeroki wachlarz kreacji – od prezentowanych potykaczy, przez banery, roll-upy, plakaty, naklejki i grafikę na trybuny, aż po gadżety (naszywki i tatuaże). Wszystkie pliki zostały w pełni przygotowane do druku, łącząc autorskie układy graficzne z wytycznymi i materiałami brandu klienta. Wizualizacja projektu została wygenerowana za pomocą AI jako nowoczesny mockup prezentujący finalny pomysł w kontekście użycia."
 
 ---
