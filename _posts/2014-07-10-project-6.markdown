@@ -4,8 +4,8 @@ subtitle:  Projekt + przygotowanie do druku
 layout: default
 modal-id: 6
 date: 2026-07-01
-img: naszywki.jpg
-thumbnail: naszywki.jpg
+img: naszywki-2.jpg
+thumbnail: naszywki-2.jpg
 alt: image-alt
 project-date: July 2026
 client: The Coca-Cola company
