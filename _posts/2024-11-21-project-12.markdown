@@ -3,7 +3,7 @@ title: Voucher festiwalowy
 subtitle: Projekt + przygotowanie do druku
 layout: default
 modal-id: 12
-date: 2024-11-21
+date: 2024-11-20
 img: VOUCHER_CC_ZABKA-v4.jpg
 thumbnail: VOUCHER_CC_ZABKA-v4.jpg
 alt: image-alt
