@@ -3,7 +3,7 @@ title: Wizytówki Drewniane.tech
 subtitle: Projekt + przygotowanie do druku
 layout: default
 modal-id: 14
-date: 2024-12-01
+date: 2024-11-19
 img: drewniane-wizytowka-2.jpg
 thumbnail: drewniane-wizytowka-2.jpg
 alt: image-alt
